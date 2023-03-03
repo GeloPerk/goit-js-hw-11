@@ -1,6 +1,6 @@
 import Notiflix from 'notiflix';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import { fetchImages } from './JS/fetchAPI.js';
+import { fetchImages } from './js/fetchAPI.js';
 
 
 import SimpleLightbox from 'simplelightbox';
